@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  box-shadow: 5px 1px 10px 1px;
+  z-index: 4;
+  height: 55px;
+}
+
+.header img {
+  display: flex;
+  align-items: center;
+  height: 45px;
+  width: 9rem;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: rgb(41, 41, 41);
+}

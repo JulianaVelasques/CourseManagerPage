@@ -1,0 +1,18 @@
+.sidenav {
+  background-color: #004ecb;
+  width: 160px;
+}
+
+/*Change color icons to white*/
+.sidenav a {
+  font-size: 0.9rem;
+  color: white;
+}
+
+.sidenav i {
+  padding-right: 10px;
+}
+
+.content {
+  padding: 20px;
+}
